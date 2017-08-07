@@ -8,6 +8,7 @@
     tools:context="tw.com.abc.myjavatest.MainActivity">
 
     <tw.com.abc.myjavatest.MyView
+        android:id="@+id/myView"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         />
